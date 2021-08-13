@@ -40,6 +40,9 @@ main .main{
     flex-direction: column;
     width: 100%;
 }
+main .main .btn{
+    margin: 1px;
+}
 main .main .main-main .about{
     padding: 0.5%;
 }
