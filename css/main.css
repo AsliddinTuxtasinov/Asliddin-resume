@@ -9,6 +9,7 @@ body{
     min-height: 100vh;
     margin: 0 auto;
     padding: 1%;
+    overflow-x: hidden;
 }
 
 header{
@@ -134,6 +135,9 @@ footer .footer-main ul{
 }
 
 @media screen and (max-width:883px) {
+    header{
+        width: 97.9%;
+    }
     main .main .main-card{
         display: none;
     }
@@ -142,6 +146,9 @@ footer .footer-main ul{
     }
 }
 @media screen and (max-width:552px) {
+    header{
+        width: 96.5%;
+    }
     footer .footer-main{
         flex-direction: column !important;
     }
