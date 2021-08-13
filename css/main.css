@@ -5,14 +5,14 @@
 }
 body{
     background-color: beige;
-    width: 90%;
+    width: 98%;
     min-height: 100vh;
     margin: 0 auto;
     padding: 1%;
 }
 
 header{
-    width: 88%;
+    width: 96%;
     top: 1px;
     position: fixed;
     z-index: 1;
