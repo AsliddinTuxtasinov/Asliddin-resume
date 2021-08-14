@@ -150,7 +150,7 @@ footer .footer-main ul{
 }
 @media screen and (max-width:552px) {
     header{
-        width: 96.1%;
+        width: 96%;
     }
     footer .footer-main{
         flex-direction: column !important;
