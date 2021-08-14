@@ -148,7 +148,7 @@ footer .footer-main ul{
         width: 100% !important;
     }
 }
-@media screen and (max-width:552px) {
+@media screen and (max-width:540px) {
     header{
         width: 95.8%;
     }
